@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "b1d36174-f84a-4254-8ff5-b57347e28237": {
+      "label": "AV File 1",
+      "is_offline": false,
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/utblac/utblac_20fc818d-22ad-4f08-999d-a86a9b31fa0d/MP4/utblac_20fc818d-22ad-4f08-999d-a86a9b31fa0d.mp4/playlist.m3u8",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The 275th episode of Latino USA aired on July 7, 1998. The three segments included in the radio show address the U.S. occupation in Puerto Rico after 100 years and the commonwealth's current political status."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Latino USA Program 275, Week #30-98",
+  "created_at": "2025-05-01T11:21:27.616Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-05-01T11:21:27.616Z",
+  "updated_by": "tanyaclement"
+}
