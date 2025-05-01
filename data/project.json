@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -772,6 +778,26 @@
       ]
     },
     "created_at": "2025-05-01T10:58:01.343Z",
-    "updated_at": "2025-05-01T10:58:01.343Z"
-  }
+    "updated_at": "2025-05-01T10:58:01.343Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "d05d6c68-05ab-4cbf-b7ea-b803e0b1a4de": {
+      "content": [],
+      "created_at": "2025-05-01T10:58:01.384Z",
+      "created_by": "tanyaclement",
+      "title": "Latino USA Coverage of Puerto Rico",
+      "updated_at": "2025-05-01T10:58:01.384Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d05d6c68-05ab-4cbf-b7ea-b803e0b1a4de"
+  ]
 }
