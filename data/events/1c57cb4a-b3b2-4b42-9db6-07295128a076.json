@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "89cd0134-1a7c-4ca5-9d88-f142e9386fe1": {
+      "label": "AV File 1",
+      "is_offline": false,
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/utblac/utblac_fb6c8bf5-4a09-4b78-bd4e-f45754056247/MP4/utblac_fb6c8bf5-4a09-4b78-bd4e-f45754056247.mp4/playlist.m3u8",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is the 348th episode of Latino USA, and aired on December 19, 1999. The episode came several weeks after the Clinton Administration announced it would stop US Navy training on the Island of Vieques after five years, following the death of David Sanes, a Puerto Rican native."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Latino USA Program 348, Week #51-99",
+  "created_at": "2025-05-01T11:22:46.155Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-05-01T11:22:46.155Z",
+  "updated_by": "tanyaclement"
+}
